@@ -1,16 +1,18 @@
-## Hi there 👋
+## yokoso 
 
-<!--
-**codeyaruj/codeyaruj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class aruj {
+public:
+    std::string role = "c, cpp, and embedded developer";
+    std::string based_in = "india";
+    std::vector<std::string> interests = {
+    "coding", 
+    "chess", 
+    "literature"
+    };
+};
 
-Here are some ideas to get you started:
+## I am an
+ECE undergraduate. I’ve explored different areas, mostly web dev, and right now, I’m studying and learning embedded systems, electronics, and firmware. 
+I’m very much a beginner here, but I’m choosing this path because I’m drawn to systems with memory, power, and physics. 
+I’m interested in understanding why something works instead of just making it work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
