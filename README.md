@@ -13,8 +13,8 @@ public:
 };
 ```
 
-## I am an
-ECE undergraduate. I’ve explored different areas, mostly web dev, and right now, I’m studying and learning embedded systems, electronics, and firmware. 
-I’m very much a beginner here, but I’m choosing this path because I’m drawn to systems with memory, power, and physics. 
-I’m interested in understanding why something works instead of just making it work.
+##  am an
+ece undergraduate. i’ve explored different areas, mostly web dev, and right now, i’m studying and learning embedded systems, electronics, and firmware. 
+i’m very much a beginner here, but i’m choosing this path because i’m drawn to systems with memory, power, and physics. 
+i’m interested in understanding why something works instead of just making it work.
 
