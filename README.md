@@ -1,5 +1,6 @@
 ## yokoso 
 
+```cpp
 class aruj {
 public:
     std::string role = "c, cpp, and embedded developer";
@@ -10,6 +11,7 @@ public:
     "literature"
     };
 };
+```
 
 ## I am an
 ECE undergraduate. I’ve explored different areas, mostly web dev, and right now, I’m studying and learning embedded systems, electronics, and firmware. 
